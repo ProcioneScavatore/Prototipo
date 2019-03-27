@@ -9,6 +9,8 @@
     <TextView
             android:text="@string/Benvenuto"
             android:layout_width="wrap_content"
-            android:layout_height="wrap_content" tools:layout_editor_absoluteY="37dp"
-            tools:layout_editor_absoluteX="176dp" android:id="@+id/text_title"/>
+            android:layout_height="wrap_content"
+            android:id="@+id/text_title" app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent" app:layout_constraintTop_toTopOf="parent"
+            android:layout_marginTop="37dp"/>
 </android.support.constraint.ConstraintLayout>
