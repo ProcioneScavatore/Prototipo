@@ -7,7 +7,7 @@
         android:layout_height="match_parent"
         tools:context=".MainActivity">
     <TextView
-            android:text="SonoSImone"
+            android:text="SonoSImoneesonoscemo"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:id="@+id/textView3" android:layout_marginEnd="177dp" app:layout_constraintEnd_toEndOf="parent"
